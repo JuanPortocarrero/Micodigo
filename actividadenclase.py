@@ -1,0 +1,16 @@
+verelmundo=['Marruecos','Armenia','Sicilia','Filipinas','Egipto','India']
+print(verelmundo)
+newmundo=sorted(verelmundo)
+print(newmundo)
+print(verelmundo)
+print(sorted(verelmundo, reverse=True))
+print(verelmundo)
+verelmundo.reverse()
+print(verelmundo)
+verelmundo.reverse()
+print(verelmundo)
+verelmundo.sort()
+print(verelmundo)
+verelmundo.sort(reverse=True)
+print(verelmundo)
+
